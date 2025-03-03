@@ -1,0 +1,6 @@
+com/github/maikoncarlos/webflux_api_reativa/controller/UserController.class
+com/github/maikoncarlos/webflux_api_reativa/controller/model/UserRequest$UserRequestBuilder.class
+com/github/maikoncarlos/webflux_api_reativa/controller/model/UserResponse.class
+com/github/maikoncarlos/webflux_api_reativa/WebfluxApiReativaApplication.class
+com/github/maikoncarlos/webflux_api_reativa/controller/IUserController.class
+com/github/maikoncarlos/webflux_api_reativa/controller/model/UserRequest.class
